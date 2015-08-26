@@ -26,7 +26,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.example.com/image.57×57.png</string>
+					<string>https://raw.githubusercontent.com/jasonxpg/demo/master/image.57×57.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -36,7 +36,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://www.example.com/image.512×512.jpg</string>
+					<string>https://raw.githubusercontent.com/jasonxpg/demo/master/image.512×512.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -50,7 +50,7 @@
 				<key>subtitle</key>
 				<string>Apple</string>
 				<key>title</key>
-				<string>Example Corporate App</string>
+				<string>乐心微动</string>
 			</dict>
 		</dict>
 	</array>
