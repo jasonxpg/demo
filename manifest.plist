@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.lifesense.LSWearable.dev</string>
+				<string>com.career.FakeGps</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
@@ -41,7 +41,7 @@
 				<key>subtitle</key>
 				<string>Apple</string>
 				<key>title</key>
-				<string>乐心微动</string>
+				<string>测试下载</string>
 			</dict>
 		</dict>
 	</array>
